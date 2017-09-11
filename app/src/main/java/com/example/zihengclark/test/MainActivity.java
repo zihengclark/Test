@@ -3,7 +3,7 @@ package com.example.zihengclark.test;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-//1234
+//1234567
 public class MainActivity extends AppCompatActivity {
 
     @Override
